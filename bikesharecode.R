@@ -123,3 +123,5 @@ qplot(x= Gender, y=Trip.Duration/60, data= subset(bikes, omit.na(Gender))
       20312 14092  9906  6166 
       
       #The highest number of rentals occur at 17:00 and 18:00 (this makes sense as those are normal commuting hours!). 
+      
+      #Thank you for taking the time do review my project!
