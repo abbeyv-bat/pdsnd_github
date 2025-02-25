@@ -1,4 +1,8 @@
 
+#I did not learn about refactoring in any of the courses included in my
+# R focused Nanodegree, but I will add additional comments to the code to 
+#demonstrate my new skills in version control! 
+
 getwd()
 list.files()
 
