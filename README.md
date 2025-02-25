@@ -1,6 +1,7 @@
 
 
-## Exploring Bikeshare Data
+## Exploring Bikeshare Data 
+# Nanodegree Project 3 
 
 # Date created
 Created by Abbey Vandenberg on January 27th, 2025. 
@@ -17,5 +18,6 @@ The purpose of the project was to explore bikeshare data from multiple U.S. citi
 A CSV files of data for each of the three cities was used in this project, as well as R version 4.3.1 "Beagle Scouts" and R studio. The CSV files were not included in the repository. 
 
 # Thank you: 
-to Udacity for teaching me how to code and explore data for the first time! 
+To Udacity for teaching me how to code and explore data for the first time! 
+I will recommend these courses for anyone I know who is interested in leveling up their coding skills. 
 
